@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestDay2" tests="1" skipped="0" failures="1" errors="0" timestamp="2024-12-18T14:03:45" hostname="codespaces-52debd" time="0.066">
+<testsuite name="com.example.project.TestDay2" tests="1" skipped="0" failures="1" errors="0" timestamp="2024-12-19T13:15:27" hostname="codespaces-52debd" time="0.02">
   <properties/>
-  <testcase name="testSortNames()" classname="com.example.project.TestDay2" time="0.066">
-    <failure message="java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6" type="java.lang.ArrayIndexOutOfBoundsException">java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6
-	at com.example.project.TestDay2.testSortNames(TestDay2.java:22)
+  <testcase name="testSortNames()" classname="com.example.project.TestDay2" time="0.02">
+    <failure message="java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3" type="java.lang.ArrayIndexOutOfBoundsException">java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at com.example.project.TestDay2.testSortNames(TestDay2.java:23)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
